@@ -1,5 +1,4 @@
 HI Contact new Change1
-<<<<<<< HEAD
 
 Modified by dhanalakshmi New Change
 
