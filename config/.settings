@@ -1,0 +1,19 @@
+{
+    "username": "vinodkrvinod@gmail.com", 
+    "environment": "production", 
+    "project_name": "VoProject", 
+    "workspace": "C:/VinodKR/MavensmateWorkSpace", 
+    "org_url": "", 
+    "namespace": "voapp", 
+    "id": "FAYJ86796DK68XYDSSYV1UWCS3NMRXT2", 
+    "metadata_container": "1dc90000000S0Q1AAK", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "CustomObject", 
+        "Profile", 
+        "StaticResource"
+    ]
+}

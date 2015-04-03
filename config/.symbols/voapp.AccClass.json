@@ -1,0 +1,57 @@
+{
+    "properties": [
+        {
+            "modifiers": [], 
+            "name": "sName", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 2
+            }, 
+            "type": "String"
+        }, 
+        {
+            "modifiers": [], 
+            "name": "slastName", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 3
+            }, 
+            "type": "String"
+        }, 
+        {
+            "modifiers": [], 
+            "name": "sFirstName", 
+            "visibility": "PUBLIC", 
+            "references": [], 
+            "location": {
+                "column": 16, 
+                "line": 4
+            }, 
+            "type": "String"
+        }
+    ], 
+    "externalReferences": [], 
+    "innerClasses": [], 
+    "interfaces": [], 
+    "constructors": [], 
+    "namespace": "voapp", 
+    "name": "AccClass", 
+    "tableDeclaration": {
+        "type": "AccClass", 
+        "modifiers": [], 
+        "references": [], 
+        "location": {
+            "column": 27, 
+            "line": 1
+        }, 
+        "name": "AccClass"
+    }, 
+    "key": "01p9000000611C0AAI", 
+    "variables": [], 
+    "id": "01p9000000611C0AAI", 
+    "methods": []
+}
